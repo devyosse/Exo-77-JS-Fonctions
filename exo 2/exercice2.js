@@ -1,4 +1,7 @@
 /* Créer ci dessous une fonction appelé myFunction qui éxécutera le code suivant puis appeler cette fonction */
 
+function myFunction(max) {
+        alert("Je viens d'appeler ma fonction"); // Code a exécuter dans la fonction.
+}
 
-alert("Je viens d'appeler ma fonction"); // Code a exécuter dans la fonction.
+myFunction(10);
